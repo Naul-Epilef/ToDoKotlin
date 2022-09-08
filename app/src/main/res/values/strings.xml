@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_main_add_description">Add</string>
+    <string name="activity_add_task_input_task_hint">Type a task</string>
+    <string name="menu_add_task_save_text">Save</string>
+    <string name="toast_input_description_empty">The field is empty</string>
+    <string name="alertDialog_confirmDelete_title">Delete?</string>
+    <string name="alertDialog_confirmDelete_body">Do you want to delete: %1$s?</string>
+    <string name="toast_create_successfully">The task was successfully created!</string>
+    <string name="toast_create_fail">The task has been failed to be created!</string>
+    <string name="toast_upgrade_successfully">The task was successfully upgraded!</string>
+    <string name="toast_upgrade_fail">The task has been failed to be upgraded!</string>
+    <string name="toast_delete_successfully">The task was successfully deleted!</string>
+    <string name="toast_delete_fail">The task has been failed to be deleted!</string>
+    <string name="activity_add_task_actionBar_title">Add task</string>
+    <string name="menu_add_task_close_text">Close</string>
+</resources>

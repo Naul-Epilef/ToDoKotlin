@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de tarefas</string>
+    <string name="activity_main_add_description">Adicionar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="activity_add_task_input_task_hint">Digite uma tarefa</string>
+    <string name="menu_add_task_save_text">Salvar</string>
+    <string name="toast_input_description_empty">O campo está vazio</string>
+    <string name="alertDialog_confirmDelete_title">Excluir?</string>
+    <string name="alertDialog_confirmDelete_body">Você quer excluir: %1$s?</string>
+    <string name="toast_create_successfully">A tarefa foi criada com sucesso!</string>
+    <string name="toast_create_fail">A tarefa falhou ao ser criada!</string>
+    <string name="toast_upgrade_successfully">A tarefa foi atualizada com sucesso!</string>
+    <string name="toast_upgrade_fail">A tarefa falhou ao ser atualizada!</string>
+    <string name="toast_delete_successfully">A tarefa foi excluída com sucesso!</string>
+    <string name="toast_delete_fail">A tarefa falhou ao ser excluída!</string>
+    <string name="activity_add_task_actionBar_title">Adicionar tarefa</string>
+    <string name="menu_add_task_close_text">Fechar</string>
+</resources>
